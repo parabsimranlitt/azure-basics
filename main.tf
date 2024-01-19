@@ -3,6 +3,13 @@
 
 # Configure the Microsoft Azure Provider.
 terraform {
+    cloud {
+    organization = "parabsimran-litt"
+    workspaces {
+      name = "Azure Basics"
+    }
+  }
+
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
