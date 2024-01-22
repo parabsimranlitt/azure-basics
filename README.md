@@ -1,3 +1,3 @@
-# Learn Terraform with Azure
+# Azure Basics with Terraform
 
-This is the companion code from the HashiCorp Learn tutorials for [getting started with Terraform on Azure](https://learn.hashicorp.com/collections/terraform/azure-get-started).
+This is to showcase some core concepts with Terraform and Azure
